@@ -1,4 +1,4 @@
-FROM runpod/worker-comfyui:5.4.0-base-cuda12.8.1
+FROM runpod/worker-comfyui:5.3.0-base-cuda12.8.1
 
 
 WORKDIR /comfyui/custom_nodes
